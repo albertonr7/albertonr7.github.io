@@ -27,7 +27,7 @@ repository: "albertonr7/albertonr7.github.io"
 logo: "/assets/images/logo.png"
 twitter_username: jekyllrb
 github_username: albertonr7
-default:
+defaults:
   #_posts
   - scope:
       path: ""

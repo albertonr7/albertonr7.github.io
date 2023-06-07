@@ -1,0 +1,23 @@
+# Profile information
+Alberto Nieto:
+  name: "Alberto Nieto Rocha"
+  avatar: "/assets/images/avatar.jpg"
+  bio: >
+    My name is Alberto, I like to work with Python and web development stuffs.
+  location: "La Paz, Baja California Sur"
+  links:
+    - label: "CV"
+      icon: "far fa-file-user"
+      url: "https://drive.google.com/file/d/1FBhF7nGTlBAIbzMjVSVFFZian50tU8RS/view?usp=share_link"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:albertonr7@outlook.com"
+    - label: "Github"
+      icon: "fab fa-github-alt"
+      url: "https://github.com/albertonr7/"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://www.instagram.com/anietorocha/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/alberto-nr7/"

@@ -1,8 +1,6 @@
 # Main navigation links
 main:
   - title: "Projects"
-    url: /docs/quick-start-guide/
+    url: /projects/
   - title: "Publication"
-    url: /year-archive/
-  - title: "About"
-    url: /categories/
+    url: /publication/
